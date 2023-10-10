@@ -1,0 +1,40 @@
+body{
+    
+    /*background: linear-gradient(to top, #d3d7d6 20%,#75f47b 70%);*/
+    background: linear-gradient(to right, #d3d7d6 20%,#5cdc62 70%);
+}   
+h1{
+    padding-left: 60px;
+}
+#cabeçalho{
+    text-align: center;
+    /*background: linear-gradient(to top, #d3d7d6 20%,#75f47b 70%);*/
+    background: linear-gradient(to right, #d3d7d6 20%,#5cdc62 70%);
+}
+#links{
+
+}
+
+#link{
+    text-decoration: none;
+    color: black;
+}
+
+#botaoLink{
+    border-radius: 20px;
+    width: 70px;
+    /*background: linear-gradient(to top, #d3d7d6 20%,#75f47b 90%);*/
+    background: linear-gradient(to right, #d3d7d6 20%,#5cdc62 90%);
+}
+
+#perfil{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#apresentacao{
+    width: 70%;
+    padding-left: 30px;
+}
+
+

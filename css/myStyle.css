@@ -2,17 +2,20 @@ body{
     
     /*background: linear-gradient(to top, #d3d7d6 20%,#75f47b 70%);*/
     background: linear-gradient(to right, #d3d7d6 20%,#5cdc62 70%);
-}   
+}
+
 h1{
     padding-left: 60px;
 }
+
+h2{
+    padding-left: 30px
+}
+
 #cabeçalho{
     text-align: center;
     /*background: linear-gradient(to top, #d3d7d6 20%,#75f47b 70%);*/
     background: linear-gradient(to right, #d3d7d6 20%,#5cdc62 70%);
-}
-#links{
-
 }
 
 #link{
@@ -37,4 +40,40 @@ h1{
     padding-left: 30px;
 }
 
+.formEscopo{
+    padding-left: 50px;
+    position:absolute;
+    display:block;
+}
 
+.formsPadrao{
+    width: 300px;
+    height: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background: linear-gradient(to right, #d3d7d6 70%,#5cdc62 95%);
+}
+
+#date{
+    border-radius: 15px;
+    background: linear-gradient(to right, #d3d7d6 70%,#5cdc62 95%);
+}
+
+.checkArea{
+    padding-top: 10px;
+}
+
+.botaoArea{
+    margin-top: 10px;
+    margin-left: 140px;
+}
+
+#botao{
+    border-radius: 15px;
+    background: linear-gradient(to right, #d3d7d6 60%,#5cdc62 90%);
+}
+
+#rodape{
+    margin-top: 18%;
+    text-align: center;
+}

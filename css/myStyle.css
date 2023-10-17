@@ -23,9 +23,9 @@ h2{
     color: black;
 }
 
-.botaoLink{
+.botao{
     border-radius: 20px;
-    width: 70px;
+    width: 80px;
     /*background: linear-gradient(to top, #d3d7d6 20%,#75f47b 90%);*/
     background: linear-gradient(to right, #d3d7d6 20%,#5cdc62 90%);
 }
@@ -68,10 +68,6 @@ h2{
     margin-left: 140px;
 }
 
-#botao{
-    border-radius: 15px;
-    background: linear-gradient(to right, #d3d7d6 60%,#5cdc62 90%);
-}
 
 #rodape{
     margin-top: 18%;

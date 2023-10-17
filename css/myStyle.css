@@ -23,7 +23,7 @@ h2{
     color: black;
 }
 
-#botaoLink{
+.botaoLink{
     border-radius: 20px;
     width: 70px;
     /*background: linear-gradient(to top, #d3d7d6 20%,#75f47b 90%);*/
